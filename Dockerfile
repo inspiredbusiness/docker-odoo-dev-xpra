@@ -1,4 +1,4 @@
-FROM inspiredbusiness/odoo-dev:latest
+FROM inspiredbusiness/odoo-dev:8.0
 
 MAINTAINER Chris White <chris@inspiredbusiness.com.au>
 
